@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
 
 code {
@@ -17,3 +20,18 @@ code {
   display: flex;
   justify-content: center;
 }
+
+#root {
+  background-color: #333d66;
+  padding: 44%;
+  max-width: 60rem;
+}
+
+p, a {
+  color:#ffbf00 ;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  }
+
+  

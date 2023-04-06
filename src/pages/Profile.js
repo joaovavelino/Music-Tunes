@@ -7,6 +7,7 @@ class Profile extends Component {
       <div data-testid="page-profile">
         <p>Profile</p>
         <Header />
+        <p>Work in progress</p>
       </div>
     );
   }
