@@ -8,6 +8,7 @@ body {
    display: flex;
    align-items: center;
    justify-content: center;
+   background-color: #333d66;
 }
 
 code {
@@ -22,8 +23,10 @@ code {
 }
 
 #root {
+  margin: 10px;
   background-color: #333d66;
-  padding: 44%;
+  padding: 20px;
+  border-radius: 8px;
   max-width: 60rem;
 }
 
