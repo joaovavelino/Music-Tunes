@@ -20,12 +20,6 @@
     "lint:styles": "npx stylelint '**/*.css'",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js,.jsx"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -39,9 +33,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.31.0",
-    "eslint-plugin-react": "^7.24.0",
-    "eslint-plugin-sonarjs": "^0.9.1",
     "prop-types": "^15.7.2",
     "stylelint": "^13.8.0",
     "stylelint-config-standard": "^20.0.0",
