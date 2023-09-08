@@ -1,3 +1,3 @@
 # PROJETO MUSIC-TUNES
 
-Project deploy: 
+Project deploy: https://music-tunes-gwa5uddez-joao-v-avelino.vercel.app/
